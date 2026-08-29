@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunktest_website=globalThis.webpackChunktest_website||[]).push([[3918],{6814:e=>{e.exports=JSON.parse('{"tags":[{"label":"2026-09","permalink":"/ds/en/blog/tags/2026-09","description":"2026-09","count":2}]}')}}]);
